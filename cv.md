@@ -19,3 +19,7 @@
 *GitHab
 
 
+# Contact information
+
+[GitHub](https://github.com/Oleg-Korol)
+[LinkedIn](https://www.linkedin.com/in/aleh-karol/)
